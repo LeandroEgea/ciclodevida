@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ciclodevida"
+    }
+  },
+  "defaultProject": "ciclodevida",
+  "cli": {
+    "analytics": false
+  }
 }
